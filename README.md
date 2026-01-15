@@ -66,7 +66,7 @@ Published **PyPI package** combining quantum-inspired algorithms with Ray-based 
 - Benchmarked on MNIST, CIFAR-10, SVHN
 
 [![PyPI](https://img.shields.io/badge/PyPI-Package-blue?style=flat-square)](https://pypi.org/project/hqde/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-green?style=flat-square)](https://github.com/Prathmesh333/HQDE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-green?style=flat-square)](https://github.com/Prathmesh333/HQDE-PyPI)
 
 ### Neural Consensus Engine
 **Multi-Agent AI System with Google Gemini**  
@@ -74,7 +74,7 @@ Advanced MoE system orchestrating specialized AI agents for consensus-based resp
 - Meta-cognitive synthesis
 - GCP Cloud Run deployment
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-green?style=flat-square)](https://github.com/Prathmesh333)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-green?style=flat-square)](https://github.com/Prathmesh333/Neural-Consensus-Engine)
 
 ### F1 Race Position Predictor
 **ML Pipeline for F1 Race Predictions**  
@@ -82,7 +82,7 @@ Built using GradientBoostingRegressor with feature engineering from Ergast F1 AP
 - Interactive Gradio UI
 - 1000+ races processed
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-green?style=flat-square)](https://github.com/Prathmesh333)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-green?style=flat-square)](https://github.com/Prathmesh333/F1-Race-Prediction)
 
 ### Multi-Modal Data Curation System
 **Automated Dataset Processing System**  
@@ -90,7 +90,7 @@ Processes audio, video, images via Whisper & Google Vision OCR.
 - 10+ language support
 - Research benchmark ready
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-green?style=flat-square)](https://github.com/Prathmesh333)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-green?style=flat-square)](https://github.com/Prathmesh333/AI-Voice-Summarizer-using-LM-Studio)
 
 ---
 
@@ -99,9 +99,9 @@ Processes audio, video, images via Whisper & Google Vision OCR.
 | Event | Project | Year |
 |-------|---------|------|
 | **Agentathon** | Neural Consensus Engine - Multi-agent AI with Gemini 1.5 | 2025 |
-| **Smart India Hackathon** | VanGuard - Crowd Management System | 2024 |
+| **Smart India Hackathon** | VanGuard - Crowd Management System | 2025 |
 | **Superr Selection** | Data-driven solution (Top 36/500+) | 2025 |
-| **Accurate Background** | Automated Document Verification Pipeline | 2024 |
+| **Accurate Background** | AI based soluion | 2025 |
 
 ---
 
@@ -122,7 +122,7 @@ Processes audio, video, images via Whisper & Google Vision OCR.
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Prathmesh333&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Prathmesh333&theme=nord&no-frame=true&column=7" alt="GitHub Trophies"/>
 
 </div>
 
