@@ -120,15 +120,6 @@ Processes audio, video, images via Whisper & Google Vision OCR.
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prathmesh333&theme=nord&no-frame=true&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## Education
 
