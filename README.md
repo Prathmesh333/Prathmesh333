@@ -136,11 +136,14 @@ Processes audio, video, images via Whisper & Google Vision OCR.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Prathmesh333&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/Prathmesh333">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prathmesh333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prathmesh333&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Prathmesh333&theme=tokyonight&hide_border=true)
+<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh333&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://streak-stats.demolab.com?user=Prathmesh333&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
