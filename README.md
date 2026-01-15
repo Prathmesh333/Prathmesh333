@@ -2,7 +2,9 @@
 
 <div align="center">
 
-**M.Tech Student @ University of Hyderabad | Machine Learning Engineer | Full Stack Developer**
+![M.Tech @ UoH](https://img.shields.io/badge/M.Tech-University%20of%20Hyderabad-blue?style=flat-square)
+![ML Enthusiast](https://img.shields.io/badge/Machine%20Learning-Enthusiast-orange?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Practitioner-purple?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-nikam-89b614210/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshnikam2208@gmail.com)
